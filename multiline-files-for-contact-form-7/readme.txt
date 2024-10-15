@@ -5,7 +5,7 @@ Tags: contact form, multiple file upload for contact form 7, contact form 7, add
 Requires at least: 5.2
 Tested up to: 6.5
 Requires PHP: 5.6
-Stable tag: 2.8.1
+Stable tag: 2.9
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -107,6 +107,9 @@ You can not, sorry!
 7. Change placement of files list - Premium Feature
 
 == Changelog ==
+
+= 2.9 =
+* Fix the Wordfence security issues. Props to [Tieu Pham Trong Nhan](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/tieu-nhan)
 
 = 2.8.1 =
 * Warning fixes 
